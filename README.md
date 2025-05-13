@@ -20,7 +20,7 @@ Perkenalkan nama saya **Feivel Jethro Ezhekiel**.<br>
  
 Saya seorang **AI Engineer** dari Universitas Gadjah Mada.<br>
  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/feiveljethro/ezhekiel) ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/feiveljethroezhekiel/) ku ya.
  
 ### Github Statistic
 <p align="left">
