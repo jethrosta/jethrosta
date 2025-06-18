@@ -11,7 +11,7 @@ My work blends **AI, embedded systems, and sustainable tech**, focused on solvin
 - 🛠️ Practical AI for health, education, and energy efficiency
 - 🌱 Empowering local communities through tech
 
-🌐 Visit my portfolio: [jethrowebporto.framer.website](https://jethrowebporto.framer.website)  
+🌐 Visit my portfolio: [jethrowebporto.framer.website](https://jethro.my.id)  
 📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/feiveljethroezhekiel/)
 
 ---
