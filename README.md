@@ -7,8 +7,8 @@ My work blends **AI, embedded systems, and sustainable tech**, focused on solvin
 
 🎯 I’m passionate about:
 - 🤖 Deep learning, edge AI & hardware acceleration (e.g., AES optimization on FPGA)
-- 🛰️ Geospatial & digital infrastructure for villages and MSMEs (UMKM)
-- 🛠️ Practical AI for health, education, and energy efficiency
+- 🛰️ Geospatial & digital infrastructure
+- 🛠️ Practical AI for health
 - 🌱 Empowering local communities through tech
 
 🌐 Visit my portfolio: [jethrowebporto.framer.website](https://jethro.my.id)  
