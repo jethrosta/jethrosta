@@ -6,7 +6,7 @@ I'm **Feivel Jethro Ezhekiel**, an AI Engineer and fresh graduate student at **U
 My work blends **AI, embedded systems, and sustainable tech**, focused on solving real-world problems through scalable innovation.
 
 🎯 I’m passionate about:
-- 🤖 Deep learning, edge AI & hardware acceleration (e.g., AES optimization on FPGA)
+- 🤖 Deep learning, edge AI, & Data Science
 - 🛰️ Geospatial & digital infrastructure
 - 🛠️ Practical AI for health
 - 🌱 Empowering local communities through tech
@@ -55,6 +55,7 @@ My work blends **AI, embedded systems, and sustainable tech**, focused on solvin
 - 🌍 **Village Digital Platform** – Laravel-based UMKM websites and smart infrastructure deployment  
 - 🤖 **Jetrade5000 AGV** – Energy-efficient autonomous robot for smart warehousing  
 - 📱 **KaloriKu** – Food recognition & calorie estimation using AI
+- 📱 **Credit Flash** - Fraud Detection from from handwriting using Machine Learning
 
 ---
 
